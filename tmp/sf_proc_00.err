@@ -1,0 +1,478 @@
+[Fri Jun 26 21:15:03 2026] PHP 8.4.22 Development Server (http://127.0.0.1:8001) started
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:58756 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:58756 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:64430 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:64430 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:64430 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:53563 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:53563 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:53142 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:63822 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:64611 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:61347 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:53142 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:63822 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:64611 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:61347 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:63818 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:53142 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:63822 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:64611 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:61347 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:63818 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:63818 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:56222 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:54513 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:64384 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:53563 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:56222 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:54513 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:64384 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:56222 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:54513 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:59026 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:57051 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:59026 [200]: GET /js/filament/forms/components/file-upload.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:57051 [200]: GET /js/filament/forms/components/textarea.js?v=5.6.7.0
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:57051 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:59026 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:61073 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:61073 [200]: GET /favicon.ico
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:61073 Closing
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:65098 Accepted
+[Fri Jun 26 21:15:23 2026] 127.0.0.1:65098 Closing
+[Fri Jun 26 21:15:37 2026] 127.0.0.1:65097 Accepted
+[Fri Jun 26 21:15:37 2026] 127.0.0.1:65097 Closing
+[Fri Jun 26 21:15:37 2026] 127.0.0.1:56182 Accepted
+[Fri Jun 26 21:15:37 2026] PHP Warning:  PHP Request Startup: File upload error - unable to create a temporary file in Unknown on line 0
+[Fri Jun 26 21:15:37 2026] 127.0.0.1:56182 Closing
+[Fri Jun 26 21:15:37 2026] 127.0.0.1:59390 Accepted
+[Fri Jun 26 21:15:37 2026] 127.0.0.1:59390 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:59841 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:59841 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57698 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57698 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57698 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:54339 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:54674 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:50654 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51491 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:64234 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:54339 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:53489 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:54674 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:50654 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51491 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:64234 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:53489 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:54674 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:50654 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51491 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:64234 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:53489 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:54339 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:50773 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57943 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:64096 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51987 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:50773 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57943 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:64096 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51987 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:50773 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57943 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:64096 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57174 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51683 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57174 [200]: GET /js/filament/forms/components/file-upload.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51683 [200]: GET /js/filament/forms/components/textarea.js?v=5.6.7.0
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51683 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:57174 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51232 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51232 [200]: GET /favicon.ico
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:51232 Closing
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:52587 Accepted
+[Fri Jun 26 21:32:23 2026] 127.0.0.1:52587 Closing
+[Fri Jun 26 21:32:29 2026] 127.0.0.1:60067 Accepted
+[Fri Jun 26 21:32:29 2026] 127.0.0.1:60067 Closing
+[Fri Jun 26 21:32:29 2026] 127.0.0.1:54656 Accepted
+[Fri Jun 26 21:32:29 2026] PHP Warning:  PHP Request Startup: File upload error - unable to create a temporary file in Unknown on line 0
+[Fri Jun 26 21:32:30 2026] 127.0.0.1:54656 Closing
+[Fri Jun 26 21:32:30 2026] 127.0.0.1:52139 Accepted
+[Fri Jun 26 21:32:30 2026] 127.0.0.1:52139 Closing
+[Fri Jun 26 21:33:12 2026] 127.0.0.1:61005 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:61005 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:55846 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:55846 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:60288 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:60647 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:55846 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:50639 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:60288 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:60647 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:50639 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:61146 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:61146 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:60647 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:61146 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:52509 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:52509 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:52509 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:60288 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:56110 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:56110 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:56110 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:54011 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:54011 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:54011 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:63433 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:63433 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:63433 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:50648 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:49826 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:50648 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:49826 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:50648 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:49826 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:64265 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:64265 Closing
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:51578 Accepted
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:51578 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:13 2026] 127.0.0.1:51578 Closing
+[Fri Jun 26 21:33:15 2026] 127.0.0.1:60540 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60540 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:65505 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:65505 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60802 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:57855 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:65505 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60871 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60802 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:52699 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60792 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:57855 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60871 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:52699 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60792 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:57855 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60871 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:52699 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60792 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:59679 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:50271 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:59679 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:50271 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:60802 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:59679 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:50271 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:50580 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:61521 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:50580 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:61521 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:50580 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:61521 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:49567 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:49567 [200]: GET /js/filament/forms/components/textarea.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:49567 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:58287 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:55903 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:58287 [200]: GET /js/filament/forms/components/rich-editor.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:55903 [200]: GET /js/filament/forms/components/file-upload.js?v=5.6.7.0
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:58287 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:55903 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:51381 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:51381 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:51381 Closing
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:61953 Accepted
+[Fri Jun 26 21:33:16 2026] 127.0.0.1:61953 Closing
+[Fri Jun 26 21:33:24 2026] 127.0.0.1:49260 Accepted
+[Fri Jun 26 21:33:24 2026] 127.0.0.1:49260 Closing
+[Fri Jun 26 21:33:24 2026] 127.0.0.1:55287 Accepted
+[Fri Jun 26 21:33:24 2026] PHP Warning:  PHP Request Startup: File upload error - unable to create a temporary file in Unknown on line 0
+[Fri Jun 26 21:33:24 2026] 127.0.0.1:55287 Closing
+[Fri Jun 26 21:33:24 2026] 127.0.0.1:52751 Accepted
+[Fri Jun 26 21:33:24 2026] 127.0.0.1:52751 Closing
+[Fri Jun 26 21:33:29 2026] 127.0.0.1:60243 Accepted
+[Fri Jun 26 21:33:29 2026] 127.0.0.1:60243 Closing
+[Fri Jun 26 21:33:32 2026] 127.0.0.1:59006 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:59006 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:53371 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:53371 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:64532 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:52496 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:64532 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:53371 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:58569 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:53431 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:52496 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:58569 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:53431 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:64532 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:52496 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:53431 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51064 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51064 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51064 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:56903 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51587 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:56903 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51587 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:56903 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:58346 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51587 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51358 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:50607 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:58346 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51358 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:50607 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:58346 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:51358 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:50607 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:55581 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:55581 Closing
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:64550 Accepted
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:64550 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:33 2026] 127.0.0.1:64550 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:49677 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:49677 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:56881 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:56881 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:52840 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:51472 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:56881 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:55057 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:52840 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:61463 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:51472 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:55057 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:61463 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:51472 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:55057 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:61463 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:53523 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:64120 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:53523 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:64120 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:53523 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:64120 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:59755 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:59755 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:59755 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:49768 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:53283 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:49768 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:53283 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:49768 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:53283 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:52840 Closing
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:59311 Accepted
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:59311 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:34 2026] 127.0.0.1:59311 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:55830 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:55830 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:55425 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:55425 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:49852 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:55425 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:49591 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:61736 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:59223 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:54657 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:49852 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:49591 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:61736 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:59223 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:54657 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:55702 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:55702 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:49591 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:61736 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:59223 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:54657 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:55702 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:64196 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:59072 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:61325 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:49852 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:64196 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:59072 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:61325 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:64196 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:59072 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:61325 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:62606 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:62606 [200]: GET /js/filament/forms/components/textarea.js?v=5.6.7.0
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:62606 Closing
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:57842 Accepted
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:57842 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:37 2026] 127.0.0.1:57842 Closing
+[Fri Jun 26 21:33:39 2026] 127.0.0.1:58114 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58114 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58768 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58768 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:65255 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58768 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:57761 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58260 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:65255 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:57761 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58260 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:64666 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:64666 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:57761 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:64666 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58969 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58969 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:58969 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:65255 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:55049 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:55049 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:55049 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:64649 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:64649 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:64649 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:49953 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:49953 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:49953 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:65489 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:51872 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:51872 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:65489 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:51872 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:65489 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:65216 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:65216 Closing
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:62400 Accepted
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:62400 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:40 2026] 127.0.0.1:62400 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:61810 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:61810 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58367 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58367 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:52434 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58367 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:57290 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:52254 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:52434 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58543 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:57290 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:52254 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58543 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:60345 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:57290 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:60345 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:52434 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58543 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:60345 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:63304 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:63304 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:63304 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:64306 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:52897 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:64306 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:52897 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:51300 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:64306 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:52897 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:64164 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:51300 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:64164 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:51300 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:64164 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:57359 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:57359 Closing
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58300 Accepted
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58300 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:42 2026] 127.0.0.1:58300 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:61306 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:61306 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52851 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52851 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:63468 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52851 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:56379 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:56414 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:63468 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:56379 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:58410 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:56414 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:58410 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:56379 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:58410 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:63468 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:53485 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:53485 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:53485 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:60242 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:60242 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:60242 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52416 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52416 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52416 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:59890 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:59890 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:59890 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52583 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:62134 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52583 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:62134 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:52583 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:62134 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:56223 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:56223 Closing
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:59991 Accepted
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:59991 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:44 2026] 127.0.0.1:59991 Closing
+[Fri Jun 26 21:33:45 2026] 127.0.0.1:55222 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55222 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:59181 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:59181 [200]: GET /fonts/filament/filament/inter/index.css?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55557 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:59181 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55942 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55557 [200]: GET /css/filament/filament/app.css?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55942 [200]: GET /fonts/filament/filament/inter/inter-latin-wght-normal-NRMW37G5.woff2
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55942 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:49195 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:49195 [200]: GET /js/filament/actions/actions.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:49195 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:60401 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:60401 [200]: GET /js/filament/notifications/notifications.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:60401 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:63339 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:63339 [200]: GET /js/filament/schemas/schemas.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:61195 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:63339 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:61195 [200]: GET /js/filament/support/support.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:61195 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55557 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:59050 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:64714 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:49591 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:59050 [200]: GET /js/filament/tables/tables.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:64714 [200]: GET /js/filament/filament/echo.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:49591 [200]: GET /js/filament/filament/app.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:59050 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:64714 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:49591 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:52103 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55753 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:52830 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:52103 [200]: GET /js/filament/forms/components/file-upload.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55753 [200]: GET /js/filament/forms/components/textarea.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:52830 [200]: GET /js/filament/forms/components/select.js?v=5.6.7.0
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:55753 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:52830 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:52103 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:51440 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:51440 [200]: GET /favicon.ico
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:51440 Closing
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:59584 Accepted
+[Fri Jun 26 21:33:46 2026] 127.0.0.1:59584 Closing
+[Fri Jun 26 21:33:53 2026] 127.0.0.1:53358 Accepted
+[Fri Jun 26 21:33:53 2026] 127.0.0.1:53358 Closing
+[Fri Jun 26 21:33:53 2026] 127.0.0.1:52187 Accepted
+[Fri Jun 26 21:33:53 2026] PHP Warning:  PHP Request Startup: File upload error - unable to create a temporary file in Unknown on line 0
+[Fri Jun 26 21:33:53 2026] 127.0.0.1:52187 Closing
+[Fri Jun 26 21:33:53 2026] 127.0.0.1:55834 Accepted
+[Fri Jun 26 21:33:54 2026] 127.0.0.1:55834 Closing

@@ -1,0 +1,28 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Models\News;
+
+class NewsController extends Controller
+{
+    public function index()
+    {
+        $news = News::published()->latest('published_at')->paginate(9);
+        $featured = News::published()->where('is_featured', true)->latest()->first();
+
+        return view('frontend.news', compact('news', 'featured'));
+    }
+
+    public function show(News $news)
+    {
+        abort_unless($news->is_published, 404);
+        $related = News::published()
+            ->where('id', '!=', $news->id)
+            ->latest('published_at')
+            ->take(3)
+            ->get();
+
+        return view('frontend.news-detail', compact('news', 'related'));
+    }
+}
