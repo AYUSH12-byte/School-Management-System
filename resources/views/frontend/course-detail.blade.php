@@ -58,31 +58,31 @@
                     <div class="space-y-4">
                         @if($course->duration)
                             <div class="flex items-center space-x-3 text-sm">
-                                <span class="text-blue-400">⏱️</span>
+                                <span class="text-blue-400"></span>
                                 <div><span class="text-slate-500">Duration:</span> <span class="text-white ml-1">{{ $course->duration }}</span></div>
                             </div>
                         @endif
                         @if($course->level)
                             <div class="flex items-center space-x-3 text-sm">
-                                <span class="text-blue-400">📊</span>
+                                <span class="text-blue-400"></span>
                                 <div><span class="text-slate-500">Level:</span> <span class="text-white ml-1">{{ ucfirst($course->level) }}</span></div>
                             </div>
                         @endif
                         @if($course->seats)
                             <div class="flex items-center space-x-3 text-sm">
-                                <span class="text-blue-400">👥</span>
+                                <span class="text-blue-400"></span>
                                 <div><span class="text-slate-500">Seats:</span> <span class="text-white ml-1">{{ $course->seats }}</span></div>
                             </div>
                         @endif
                         @if($course->department)
                             <div class="flex items-center space-x-3 text-sm">
-                                <span class="text-blue-400">🏛️</span>
+                                <span class="text-blue-400"></span>
                                 <div><span class="text-slate-500">Dept:</span> <span class="text-white ml-1">{{ $course->department->name }}</span></div>
                             </div>
                         @endif
                         @if($course->teacher)
                             <div class="flex items-center space-x-3 text-sm">
-                                <span class="text-blue-400">👨‍🏫</span>
+                                <span class="text-blue-400"></span>
                                 <div><span class="text-slate-500">Instructor:</span> <span class="text-white ml-1">{{ $course->teacher->name }}</span></div>
                             </div>
                         @endif

@@ -73,8 +73,8 @@
                             <p class="text-slate-400 text-sm line-clamp-2 mb-4">{{ $course->description }}</p>
                             <div class="flex items-center justify-between border-t border-white/10 pt-4">
                                 <div class="flex items-center space-x-3 text-xs text-slate-500">
-                                    @if($course->duration) <span>⏱️ {{ $course->duration }}</span> @endif
-                                    @if($course->seats) <span>• 👥 {{ $course->seats }} seats</span> @endif
+                                    @if($course->duration) <span> {{ $course->duration }}</span> @endif
+                                    @if($course->seats) <span> {{ $course->seats }} seats</span> @endif
                                 </div>
                                 <a href="{{ route('courses.show', $course) }}" class="btn-primary text-white text-xs font-semibold px-4 py-2 rounded-lg">
                                     Details
@@ -87,7 +87,7 @@
             <div class="mt-10">{{ $courses->links() }}</div>
         @else
             <div class="text-center py-20">
-                <div class="text-6xl mb-4">📚</div>
+                <div class="text-6xl mb-4"></div>
                 <h3 class="text-xl font-bold text-white mb-2">No courses found</h3>
                 <p class="text-slate-400">Try adjusting your search or filter.</p>
             </div>
