@@ -187,7 +187,7 @@
                     </div>
                     <div class="p-5">
                         <div class="text-xs text-slate-500 mb-2">
-                            📅 {{ $item->published_at?->format('M d, Y') ?? $item->created_at->format('M d, Y') }}
+                            {{ $item->published_at?->format('M d, Y') ?? $item->created_at->format('M d, Y') }}
                             @if($item->author) • {{ $item->author }} @endif
                         </div>
                         <h3 class="font-bold text-white mb-2 group-hover:text-orange-400 transition-colors line-clamp-2">
