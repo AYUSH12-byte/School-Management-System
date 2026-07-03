@@ -31,7 +31,7 @@
                     </svg>
                 </div>
                 <h3 class="text-white font-bold mb-1">Our Location</h3>
-                <p class="text-slate-400 text-sm leading-relaxed">EduManage School, Kathmandu, Nepal<br>Near Central Park, Ward No. 5</p>
+                <p class="text-slate-400 text-sm leading-relaxed">EduManage School, Jhapa, Nepal<br>Near Central Park, Ward No. 5</p>
             </div>
 
             <div class="card p-6 rounded-2xl group hover:scale-[1.02] transition-all duration-300">
