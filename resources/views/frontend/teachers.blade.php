@@ -13,7 +13,7 @@
     <div class="relative max-w-4xl mx-auto text-center">
         <span class="inline-block bg-purple-500/20 text-purple-300 text-sm font-semibold px-4 py-1.5 rounded-full mb-4 border border-purple-500/30">Our Faculty</span>
         <h1 class="text-5xl font-bold text-white mb-4">Meet Our <span class="gradient-text">Expert Teachers</span></h1>
-        <p class="text-slate-400 max-w-xl mx-auto">Passionate educators dedicated to shaping the future — one student at a time.</p>
+        <p class="text-slate-400 max-w-xl mx-auto">Passionate educators dedicated to shaping the future, one student at a time.</p>
     </div>
 </section>
 
