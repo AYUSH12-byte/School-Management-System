@@ -30,7 +30,7 @@
             </div>
             <h2 class="text-2xl font-bold text-white mb-4">Our Mission</h2>
             <p class="text-slate-400 leading-relaxed">
-                To provide high-quality, accessible education that empowers every student to discover their potential, develop critical thinking skills, and contribute meaningfully to society. We believe education is the most powerful tool for personal and societal transformation.
+                To provide high-quality, accessible education that empower every student to discover their potential, develop critical thinking skills, and contribute meaningfully to society. We believe education is the most powerful tool for personal and societal transformation.
             </p>
         </div>
         <div class="glass rounded-2xl p-8 card-hover">
