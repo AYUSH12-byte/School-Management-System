@@ -23,6 +23,6 @@ class NewsController extends Controller
             ->take(3)
             ->get();
 
-        return view('frontend.news-detail', compact('news', 'related'));
+        return view('frontend.news-details', compact('news', 'related'));
     }
 }
