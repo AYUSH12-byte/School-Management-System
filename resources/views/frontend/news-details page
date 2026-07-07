@@ -71,7 +71,7 @@
             <div class="sticky top-24">
                 <h3 class="text-white font-bold text-lg mb-6 flex items-center gap-2">
                     <div class="w-1 h-6 bg-blue-500 rounded-full"></div>
-                    Related Articles
+                    Related Article
                 </h3>
 
                 @if($related->count())

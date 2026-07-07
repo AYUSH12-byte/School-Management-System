@@ -6,7 +6,7 @@ A comprehensive school management web application built with Laravel and Blade t
 - Student Admissions
 - Course Management
 - Department Directory
-- Modern, responsive frontend design
+- Modern and responsive frontend design
 
 ## Contact Info
 - **Address:** Birtamod, Jhapa Nepal

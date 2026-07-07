@@ -121,7 +121,7 @@
                     </svg>
                 </div>
                 <h3 class="text-xl font-semibold text-slate-400 mb-2">No articles published yet</h3>
-                <p class="text-slate-500">Check back soon for updates!</p>
+                <p class="text-slate-500">Check back soon for update!</p>
             </div>
         @endif
 

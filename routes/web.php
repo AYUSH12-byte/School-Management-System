@@ -9,7 +9,7 @@ use App\Http\Controllers\NewsController;
 use App\Http\Controllers\TeacherController;
 use Illuminate\Support\Facades\Route;
 
-// Frontend Routes
+// Frontend Route
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/about', fn() => view('frontend.about'))->name('about');
 
