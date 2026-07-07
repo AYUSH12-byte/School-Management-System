@@ -12,7 +12,7 @@
     <div class="absolute bottom-10 right-1/4 w-96 h-96 bg-purple-600/10 rounded-full blur-3xl"></div>
     <div class="relative max-w-4xl mx-auto text-center">
         <span class="inline-block bg-violet-500/20 text-violet-300 text-sm font-semibold px-4 py-1.5 rounded-full mb-4 border border-violet-500/30">Join Our School</span>
-        <h1 class="text-5xl font-bold text-white mb-4">Apply for <span class="gradient-text">Admission</span></h1>
+        <h1 class="text-5xl font-bold text-white mb-4">Apply  <span class="gradient-text"> for Admission</span></h1>
         <p class="text-slate-400 max-w-xl mx-auto">Start your educational journey at EduManage School. Fill out the form below and our team will contact you.</p>
     </div>
 </section>
