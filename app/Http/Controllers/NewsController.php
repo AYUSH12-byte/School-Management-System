@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\News;
+//NewsController handles the logic for displaying news articles in the school management system.
 
 class NewsController extends Controller
 {
