@@ -8,6 +8,8 @@ use App\Models\Gallery;
 use App\Models\News;
 use App\Models\Teacher;
 
+ //HomeController handles the logic for the home page of the school management system.
+ 
 class HomeController extends Controller
 {
     public function index()
