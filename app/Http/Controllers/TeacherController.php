@@ -17,6 +17,6 @@ class TeacherController extends Controller
             ->when($selectedDept, fn($q) => $q->where('department_id', $selectedDept))
             ->paginate(12);
 
-        return view('frontend.teachers', ompact('teachers', 'departments', 'selectedDept'));
+        return view('frontend.teachers', compact('teachers', 'departments', 'selectedDept'));
     }
 }
