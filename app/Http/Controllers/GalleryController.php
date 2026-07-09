@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Models\Gallery;
 
+//GalleryController handles the logic for displaying gallery images in the school management system.
+
 class GalleryController extends Controller
 {
     public function index()
