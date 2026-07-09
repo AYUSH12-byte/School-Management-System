@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Models\Course;
 use App\Models\Department;
 
+//courseController handles the logic for displaying courses in the school management system.
+
 class CourseController extends Controller
 {
     public function index()
