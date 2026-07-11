@@ -6,6 +6,8 @@ use App\Models\Admission;
 use App\Models\Course;
 use Illuminate\Http\Request;
 
+//AdmissionController handles the logic for managing admission applications in the school management system.
+
 class AdmissionController extends Controller
 {
     public function index()
