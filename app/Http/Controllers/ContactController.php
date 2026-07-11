@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Contact;
 use Illuminate\Http\Request;
 
+//ContactController handles the logic for managing contact form submissions in the school management system.
 class ContactController extends Controller
 {
     public function index()
