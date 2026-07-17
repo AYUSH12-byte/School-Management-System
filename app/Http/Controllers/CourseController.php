@@ -18,8 +18,8 @@ class CourseController extends Controller
         $courses = Course::with(['department', 'teacher'])
             ->where('is_active', true)
             ->when($selectedDept, fn($q) => $q->where('department_id', $selectedDept))
-            ->when($search, fn($q) => $q->where('title', 'like', "%{$search}%")
-                ->orWhere('description', 'like', "%{$search}%"))
+            ->when($search, fn($q) => $q->where(fn($subQuery) => $subQuery->where('title', 'like', "%{$search}%")
+                ->orWhere('description', 'like', "%{$search}%")))
             ->paginate(9);
 
         return view('frontend.courses', compact('courses', 'departments', 'selectedDept', 'search'));
